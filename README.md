@@ -6,7 +6,7 @@
 - Tech: Tensorflow (Keras), Python (Numpy, Pandas, matplotlib)
 - Work completed: Model architecture and hyperparameter tuning, saving best model using (EarlyStopping, ModelCheckpoint), evaluation of mean absolute forecast error 
 
-![Alt text](../assets/forecast_results.png?raw=true "Forecasting results on test dataset")
+![Alt text](/assets/forecast_results.png?raw=true "Forecasting results on test dataset")
 
 ### Dataset:
 - Daily prices of Google stocks for the past 10 years were obtained from Yahoo Finance  
@@ -18,6 +18,9 @@
 
 ### References:
 - This project was inspired by the following resources:
-    -https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/03.stock_prediction.ipynb
-    -https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
-    -https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233
+
+-https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/03.stock_prediction.ipynb
+
+-https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
+
+-https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233
