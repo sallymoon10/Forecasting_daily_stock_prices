@@ -6,6 +6,8 @@
 - Tech: Tensorflow (Keras), Python (Numpy, Pandas, matplotlib)
 - Work completed: Model architecture and hyperparameter tuning, saving best model using (EarlyStopping, ModelCheckpoint), evaluation of mean absolute forecast error 
 
+![Alt text](../assets/forecast_results.png?raw=true "Forecasting results on test dataset")
+
 ### Dataset:
 - Daily prices of Google stocks for the past 10 years were obtained from Yahoo Finance  
 
